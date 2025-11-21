@@ -34,7 +34,7 @@
 # Процесс разработки
 
 ### 1. Настройка окружения
-```bash
+bash
 # Клонируйте репозиторий
 git clone https://github.com/Gojl11/kt-.-
 cd react-task-tracker
@@ -44,3 +44,6 @@ npm install
 
 # Запустите в режиме разработки
 npm start
+
+# Участники написания 
+Чумак Аким Станиславович - ChumakAS@rostov-don.ithub.ru
